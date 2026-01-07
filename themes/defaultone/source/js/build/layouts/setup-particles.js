@@ -1,4 +1,4 @@
-// 初始化 particles.js
+// Initialize particles.js
 const mainDiv = document.getElementById("particles-js");
 console.log("Particles.js initialization started");
 console.log("Main div:", mainDiv);
