@@ -1,9 +1,8 @@
 ---
 title: Study Note
-banner: "something to mark"
-cover: https://japan.net.vn/images/uploads/2018/05/15/4-top-10-phim-hoat-hinh-anime.jpg
+banner: "something to start"
+cover: https://s1.zerochan.net/Sousou.no.Frieren.600.4004264.jpg
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 

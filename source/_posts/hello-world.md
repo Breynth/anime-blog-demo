@@ -1,9 +1,8 @@
 ---
 title: Hello World
-banner: "this is test page"
-cover: https://images.bauerhosting.com/empire/2024/05/01-Princess-Mononoke.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80
+banner: "this is tuff page"
+cover: https://www.madhouse.co.jp/imgs/thumb_frieren-anime-s2_4.png
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 
